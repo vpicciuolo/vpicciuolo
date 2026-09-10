@@ -6,7 +6,7 @@
 
 **30+ years building technology, infrastructure, platforms, products and companies**
 
-AI Orchestration · AI Agents · Local AI · MCP · RAG · Web Intelligence · Distributed Systems · Infrastructure · Cybersecurity · Fintech · Blockchain · APIs · Automation · Developer Tools
+Proprietary AI Models · AI Systems · AI Orchestration · AI Agents · Local AI · MCP · RAG · Web Intelligence · Distributed Systems · Infrastructure · Cybersecurity · Fintech · Blockchain · APIs · Automation · Developer Tools
 
 [![GitHub followers](https://img.shields.io/github/followers/vpicciuolo?style=for-the-badge&logo=github)](https://github.com/vpicciuolo?tab=followers)
 [![X](https://img.shields.io/badge/X-@vpicciuolo-black?style=for-the-badge&logo=x)](https://x.com/vpicciuolo)
@@ -36,46 +36,53 @@ I am most interested in difficult systems where architecture matters: understand
 ## 🧠 Current Focus
 
 ```text
-AI Orchestration           Local & Portable AI
-AI Agents                  Model Routing
-MCP                        RAG
-Persistent Memory          Multimodal AI
-Business AI                Coding Agents
-Artifact Generation        Semantic Language Intelligence
-Web Intelligence           Entity Resolution
-SEO & AI Visibility        Competitive Intelligence
-Data Extraction            Automation
-Distributed Systems        Decentralized Infrastructure
+Proprietary AI Models      AI Systems
+Model Engineering          Local & Portable AI
+AI Orchestration           AI Agents
+Model Routing              MCP
+RAG                        Persistent Memory
+Multimodal AI              Business AI
+Coding Agents              Artifact Generation
+Semantic Language AI       Web Intelligence
+Entity Resolution          SEO & AI Visibility
+Competitive Intelligence   Data Extraction
+Automation                 Distributed Systems
+Decentralized Infrastructure
 Cybersecurity              APIs
 Developer Platforms        High Performance Infrastructure
 ```
 
 ## 🧠 OYYO
 
-### AI orchestration for real work. Made in UAE 🇦🇪 · Dubai-IT
+### One intelligence. One workspace. One place for everything. Made in UAE 🇦🇪 · Dubai-IT
 
-I am the **Founder and Technology Architect of [OYYO](https://oyyo.one)**, a proprietary AI orchestration system being built for modern business.
+I am the **Founder and Technology Architect of [OYYO](https://oyyo.one)**, a proprietary AI platform being built for modern business with its **own native OYYO AI model family**, hardware-aware runtime, persistent intelligence, agents, tools and multimodal workspace.
 
-OYYO started from a practical problem I kept seeing while building and operating real technology platforms: today's AI tools are powerful, but work is still fragmented across models, chats, tools, files, memory, business applications and disconnected workflows.
+OYYO started from a practical problem I kept seeing while building and operating real technology platforms: today's AI systems are powerful, but work is still fragmented across models, chats, tools, files, memory, business applications and disconnected workflows.
 
-OYYO is being designed as the orchestration layer that brings those parts together.
+The goal is not simply to orchestrate other AI models. **OYYO is being built as an independent AI system that can run with its own proprietary models**, online in the cloud or locally and offline on compatible hardware.
+
+When additional capability is useful, OYYO can also connect and coordinate external cloud models and other local models, allowing multiple forms of intelligence to work together inside one environment. Orchestration is therefore one capability of OYYO, not the definition of OYYO itself.
 
 The architecture is focused on:
 
-- model and backend orchestration
-- local and portable AI execution
-- persistent cross-work memory and context
+- proprietary OYYO native AI models across multiple capability and hardware tiers
+- independent OYYO operation without requiring an external AI provider
+- online, local and fully offline model execution
+- hardware-aware inference across CPU, GPU, NPU and supported accelerators
+- intelligent collaboration between OYYO models, external cloud models and additional local models
+- persistent cross-work memory, context and knowledge
 - tools, agents and MCP workflows
 - business research and execution
 - coding and technical work
 - documents, spreadsheets and presentations
 - semantic multilingual intelligence and translation
 - image, audio and video workflows
-- hardware-aware execution and efficiency
-- privacy-oriented local operation where possible
+- configurable organization and user policy profiles
+- privacy-oriented local operation
 - compatibility with familiar AI APIs while extending them with OYYO-native capabilities
 
-OYYO is **not an open-source project**. The core runtime, orchestration engine and proprietary intellectual property remain private.
+OYYO is **not an open-source project**. The native OYYO models, core runtime, orchestration engine and proprietary intellectual property remain private unless a specific component is explicitly released under separate terms.
 
 Selected technical surfaces are public for transparency, integration and reproducible evaluation.
 
@@ -85,7 +92,7 @@ Selected technical surfaces are public for transparency, integration and reprodu
 | --- | --- |
 | 🧪 **[OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark)** | Independent AI evaluation across reasoning, business, coding, agents, artifacts, language, multimodal, security and hardware efficiency |
 | 🧩 **[OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk)** | Python and TypeScript integration surface with familiar AI endpoints and OYYO-native APIs |
-| 🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)** | Model manifests, compatibility metadata, provenance, release gates and model cards |
+| 🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)** | OYYO model-family metadata, compatibility profiles, provenance, release gates and model cards |
 
 🌐 **[Explore OYYO](https://oyyo.one)**  
 💼 **[Investor Information](https://oyyo.one/investors)**  
@@ -184,6 +191,10 @@ Distributed Infrastructure
    ↓
 Artificial Intelligence
    ↓
+Proprietary AI Models
+   ↓
+AI Systems
+   ↓
 AI Orchestration
    ↓
 Autonomous Systems
@@ -243,7 +254,7 @@ I believe some technology should be reusable, inspectable and available to other
 - developer infrastructure
 - distributed systems
 
-That philosophy does **not** mean every product I build is open source. OYYO's core technology, for example, is proprietary by design while selected interfaces and evaluation components are publicly visible.
+That philosophy does **not** mean every product I build is open source. OYYO's native models, core runtime and proprietary technology are private by design while selected interfaces and evaluation components are publicly visible.
 
 If an open-source repository here helps your project:
 
@@ -286,6 +297,6 @@ I am continuously experimenting, building and releasing technology across AI, in
 
 ### **[Follow @vpicciuolo on GitHub](https://github.com/vpicciuolo?tab=followers) to see what comes next.**
 
-🧠 OYYO · 🤖 AI · 🌐 Infrastructure · 🔎 Open Source · 🔥 Building
+🧠 OYYO · Proprietary AI · 🤖 AI Systems · 🌐 Infrastructure · 🔎 Open Source · 🔥 Building
 
 </div>
