@@ -52,7 +52,7 @@ Developer Platforms        High Performance Infrastructure
 
 ## 🧠 OYYO
 
-### AI orchestration for real work. Built in the UAE 🇦🇪
+### AI orchestration for real work. Made in UAE 🇦🇪 · Dubai-IT
 
 I am the **Founder and Technology Architect of [OYYO](https://oyyo.one)**, a proprietary AI orchestration system being built for modern business.
 
