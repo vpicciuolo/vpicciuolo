@@ -93,18 +93,34 @@ Selected technical surfaces are public for transparency, integration and reprodu
 | 🧪 **[OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark)** | Independent AI evaluation across reasoning, business, coding, agents, artifacts, language, multimodal, security and hardware efficiency |
 | 🧩 **[OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk)** | Python and TypeScript integration surface with familiar AI endpoints and OYYO-native APIs |
 | 🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)** | OYYO model-family metadata, compatibility profiles, provenance, release gates and model cards |
+| 🤖 **[LinkedIn SuperAgent MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)** | Portable open-source LinkedIn agent skills for offline, local and web AI workspaces |
 
 🌐 **[Explore OYYO](https://oyyo.one)**  
 💼 **[Investor Information](https://oyyo.one/investors)**  
 🧪 **[OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark)**  
 🧩 **[OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk)**  
-🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)**
+🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)**<br>
+🤖 **[LinkedIn SuperAgent MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)**
 
 **OYYO is proprietary technology of HRN INNOVATION TECHNOLOGIES LTD.**
 
 ## 🔎 Featured Open Source
 
 My open-source work is separate from the proprietary OYYO core. I publish reusable engineering components when doing so can help other developers without exposing protected product technology.
+
+### 🤖 [LinkedIn SuperAgent MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)
+
+**One LinkedIn agent pack for local, offline and web AI.**
+
+A free MIT-licensed collection of 24 independent skills for strategy, research, voice, content, profiles, engagement, social selling, recruiting, company pages, employee advocacy, analytics and account operations.
+
+The same agent can run as a Codex or Claude Code plugin, as local Agent Skills, or as a portable instruction file in ChatGPT, Claude, Perplexity, Gemini and local-model workspaces. Manual mode works without a LinkedIn login. Optional browser-assisted and official API modes add live account workflows with approval gates and clear safety boundaries.
+
+**Core areas:** LinkedIn AI Agent · Content Strategy · Profile Optimization · Human Writing · Analytics · Social Selling · Recruiting · Offline AI · Agent Skills · ChatGPT · Codex · Claude Code
+
+👉 **[Explore LinkedIn SuperAgent MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)**
+
+<br>
 
 ### 🔎 [URL Intelligence Agent](https://github.com/vpicciuolo/url-intelligence-agent)
 
