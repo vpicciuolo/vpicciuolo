@@ -93,16 +93,26 @@ Selected technical surfaces are public for transparency, integration and reprodu
 | 🧪 **[OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark)** | Independent AI evaluation across reasoning, business, coding, agents, artifacts, language, multimodal, security and hardware efficiency |
 | 🧩 **[OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk)** | Python and TypeScript integration surface with familiar AI endpoints and OYYO-native APIs |
 | 🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)** | OYYO model-family metadata, compatibility profiles, provenance, release gates and model cards |
+| 🎙️ **[OYYO NotzUP](https://github.com/vpicciuolo/oyyo-notzup)** | Private local-AI capture and knowledge workspace, verified downloads, installation guides and release records |
 | 🤖 **[LinkedIn SuperAgent MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)** | Portable open-source LinkedIn agent skills for offline, local and web AI workspaces |
 
 🌐 **[Explore OYYO](https://oyyo.one)**  
 💼 **[Investor Information](https://oyyo.one/investors)**  
 🧪 **[OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark)**  
 🧩 **[OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk)**  
-🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)**<br>
+🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)**  
+🎙️ **[OYYO NotzUP](https://github.com/vpicciuolo/oyyo-notzup)** · **[Downloads](https://github.com/vpicciuolo/oyyo-notzup/blob/main/docs/DOWNLOADS.md)** · **[Microsoft Store](https://apps.microsoft.com/detail/9NX0604FJ0XN)**  
 🤖 **[LinkedIn SuperAgent MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)**
 
 **OYYO is proprietary technology of HRN INNOVATION TECHNOLOGIES LTD.**
+
+### 🎙️ [OYYO NotzUP](https://github.com/vpicciuolo/oyyo-notzup)
+
+**Capture anything. Understand it locally.**
+
+OYYO NotzUP is the private capture and knowledge workspace inside [OYYO ONE AI](https://oyyo.one/). It brings audio and permitted screen recording, screenshots, scans, documents, music, video, text and links into one searchable library, with supported transcription, OCR, visual descriptions, translation, summaries and structured outputs processed by the Local OYYO AI Core on the device.
+
+[Product website](https://notzup.com/) · [Public repository](https://github.com/vpicciuolo/oyyo-notzup) · [Download guide](https://github.com/vpicciuolo/oyyo-notzup/blob/main/docs/DOWNLOADS.md) · [Microsoft Store](https://apps.microsoft.com/detail/9NX0604FJ0XN) · [Verified releases](https://github.com/vpicciuolo/oyyo-notzup/releases)
 
 ## 🔎 Featured Open Source
 
