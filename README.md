@@ -82,7 +82,7 @@ The starting point is practical: a user should be able to describe the work in o
 
 Catalog counts describe available definitions, not simultaneous workers or a promise that every model is ready on every computer. Local models need compatible resources and successful device qualification. Optional connected assistance is a separate execution mode. A draft, plan or review is not evidence that a tool action or external publication occurred.
 
-The documented Windows catalog baseline is **0.1.16**. Operating-system builds, device qualification and native application capabilities have their own scope; a catalog entry is not universal hardware or platform certification.
+The workspace private-beta baseline is **0.1.16** for Windows x64 and Apple Silicon macOS 14 or later. Both carry the expanded catalogs and workspace experience, with native hardware backends. Operating-system builds, device qualification and native application capabilities have their own scope; a catalog entry is not universal hardware or platform certification.
 
 ### Independent catalogs
 
