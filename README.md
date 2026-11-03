@@ -75,14 +75,18 @@ The starting point is practical: a user should be able to describe the work in o
 | **Models** | 15 local text-model candidates, a local NotzUp speech pack and an optional connected-model route | [Model lineup and requirements](https://github.com/vpicciuolo/oyyo-models) |
 | **Agents** | 200 workspace role definitions across 24 departments, including coordination, specialists and review | [Agent directory](https://github.com/vpicciuolo/oyyo-agents) |
 | **Teams** | Seven built-in workflow groups, with reusable custom teams and profile preferences | [Team workflows](https://github.com/vpicciuolo/oyyo-teams) |
-| **Tasks** | 225 guided entries: 25 goal templates and 200 role-specific tasks; 12 creative styles | [Task library](https://github.com/vpicciuolo/oyyo-task-library) |
+| **Tasks** | 1,025 guided entries: 25 goal templates and 1,000 role-specific tasks; 204 creative styles | [Task library](https://github.com/vpicciuolo/oyyo-task-library) |
 | **Memory and context** | Shared saved memory across workspaces, chat-specific history and relevant knowledge/context preparation | [Routing and context guide](https://github.com/vpicciuolo/oyyo-models/blob/main/docs/ROUTING.md) |
 | **Meetings and notes** | Meeting-focused local transcription, editable notes, summaries, actions and translation within the documented beta limits | [NotzUp model and workflow](https://github.com/vpicciuolo/oyyo-models/blob/main/model-cards/oyyo-notzup-tiny-all.md) |
 | **Usable outputs** | Detailed drafts, specialist contributions, next actions and supported document exports; media generation and external actions depend on available tools | [Capability guide](https://github.com/vpicciuolo/oyyo-models/blob/main/docs/CAPABILITIES.md) |
 
 Catalog counts describe available definitions, not simultaneous workers or a promise that every model is ready on every computer. Local models need compatible resources and successful device qualification. Optional connected assistance is a separate execution mode. A draft, plan or review is not evidence that a tool action or external publication occurred.
 
-The documented Windows catalog baseline is **0.1.14**. Operating-system builds, device qualification and native application capabilities have their own scope; a catalog entry is not universal hardware or platform certification.
+The documented Windows catalog baseline is **0.1.15**. Operating-system builds, device qualification and native application capabilities have their own scope; a catalog entry is not universal hardware or platform certification.
+
+### Independent catalogs
+
+The current task/style library can be refreshed through a manual **Sync catalog** control in compatible workspace builds, with validated local caching for offline use. [OYYO Catalogs](https://github.com/vpicciuolo/oyyo-catalogs) versions that content separately from application releases. This does not install executable tools or bypass model qualification.
 
 ### Where the engineering is focused
 
@@ -106,8 +110,10 @@ Choose the repository for the question you want to answer. The catalogs link to 
 | 🧠 **[OYYO Models](https://github.com/vpicciuolo/oyyo-models)** | Model cards, specializations, sample requests, CPU/GPU and memory requirements, qualification and capability boundaries |
 | 🤖 **[OYYO Agents](https://github.com/vpicciuolo/oyyo-agents)** | All 200 workspace names, department indexes, specialties, expected contributions and collaboration notes |
 | 👥 **[OYYO Teams](https://github.com/vpicciuolo/oyyo-teams)** | Everyday work, marketing, finance, People & HR, engineering, research and operations; profiles, review and handoffs |
-| 📚 **[OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library)** | All 225 task entries, goal briefs, examples, expected outputs and 12 creative style options |
+| 📚 **[OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library)** | All 1,025 task entries, goal briefs, examples, expected outputs and 204 creative style options |
 | 🎙️ **[OYYO NotzUP](https://github.com/vpicciuolo/oyyo-notzup)** | The standalone capture and knowledge product, its user-facing information and public release records |
+
+| 🔄 **[OYYO Catalogs](https://github.com/vpicciuolo/oyyo-catalogs)** | Independent task/style snapshots, integrity metadata and manual synchronisation information |
 
 ### Evaluation and developer interfaces
 
